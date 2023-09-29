@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>am_boxberry</id>
+    <version>230929</version>
+    <priority>100</priority>
+    <has_icon>Y</has_icon>
+    <status>active</status>
+    <authors>
+        <author>
+            <name>Alexander.M</name>
+        </author>
+    </authors>
+    <supplier>Alexander.M</supplier>
+    <default_language>en</default_language>
+    <functions>
+        <item for="install">fn_am_boxberry_install</item>
+        <item for="uninstall">fn_am_boxberry_uninstall</item>
+    </functions>
+</addon>

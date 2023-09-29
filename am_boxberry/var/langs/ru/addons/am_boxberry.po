@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::am_boxberry"
+msgid "A.M Boxberry"
+msgstr "A.M Boxberry"
+
+msgctxt "Addons::description::am_boxberry"
+msgid "A.M Boxberry description"
+msgstr "Доставка транспортной компанией Boxberry"
+
+msgctxt "Languages::carrier_am_boxberry"
+msgid "A.M Boxberry"
+msgstr "A.M Boxberry"
