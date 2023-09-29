@@ -15,3 +15,15 @@ msgstr "Доставка транспортной компанией Boxberry"
 msgctxt "Languages::carrier_am_boxberry"
 msgid "A.M Boxberry"
 msgstr "A.M Boxberry"
+
+msgctxt "Languages::am_boxberry.api_password"
+msgid "API token"
+msgstr "API token"
+
+msgctxt "Languages::am_boxberry.target_start"
+msgid "Boxberry start target code"
+msgstr "Код пункта приема посылок"
+
+msgctxt "Languages::am_boxberry.default_weight"
+msgid "Default weight (in grams)"
+msgstr "Вес по умолчанию (в граммах)"
